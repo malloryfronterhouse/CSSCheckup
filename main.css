@@ -1,6 +1,6 @@
 body {
-    background-color: cornflowerblue;
-    color: white;
+    background-color: lightgray;
+    color: black;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
@@ -15,8 +15,36 @@ nav {
     
 }
 
-.home {
+#home {
+    color: green;
+    text-decoration: none;
+    width: 25vw;
     float: left;
+    position: relative;
+    left: 15px;
+}
+
+#contact
+{
+color: green;
+text-decoration: none;
+width: 50vw;
+
+}
+
+#about {
+    color: green;
+    text-decoration: none;
+    width: 25vw;
+    position: relative;
+    left: 250px;
+}
+
+#gallery {
+    color: green;
+    text-decoration: none;
+    width: 25vw;
+    float: right; 
 }
 
 
@@ -26,15 +54,17 @@ nav {
     border: solid 4px white;
     border-radius: 100px;
     text-align: center;
+    color: green;
 }
 
 #secondHeading {
     text-align: center;
     font-size: 2rem;
+    color: green;
 }
 
 .hrefs {
-    color: black;
+    color: green;
     text-decoration: none;
     font-size: .75rem;
 }
@@ -43,5 +73,12 @@ nav {
 text-decoration: underline;
 font-size: 2rem;
 text-align: center;
+color: green;
 }
+
+#killerBlurb {
+    color: green;
+    text-align: center;
+}
+
 
