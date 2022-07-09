@@ -16,7 +16,7 @@ nav {
 }
 
 #home {
-    color: green;
+    color: purple;
     text-decoration: none;
     width: 25vw;
     float: left;
@@ -26,14 +26,14 @@ nav {
 
 #contact
 {
-color: green;
+color: purple;
 text-decoration: none;
 width: 50vw;
 
 }
 
 #about {
-    color: green;
+    color: purple;
     text-decoration: none;
     width: 25vw;
     position: relative;
@@ -41,7 +41,7 @@ width: 50vw;
 }
 
 #gallery {
-    color: green;
+    color: purple;
     text-decoration: none;
     width: 25vw;
     float: right; 
@@ -81,4 +81,23 @@ color: green;
     text-align: center;
 }
 
+.article {
+    border: dotted 2px green;
+    position: relative;
+    padding: 60px;
+    width: 30vw;
+}
 
+#tedbundy {
+    color: green;
+    font-size: 1.5rem;
+    text-decoration: underline;
+    text-decoration-color: purple;
+}
+
+#fans {
+    color: green;
+    font-size: 1.5rem;
+    text-decoration: underline;
+    text-decoration-color: purple;
+}
